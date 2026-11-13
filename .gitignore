@@ -1,0 +1,13 @@
+# 컴파일 결과물
+out/
+out-test/
+*.class
+
+# 저장 중 생기는 임시 파일
+*.tmp
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
